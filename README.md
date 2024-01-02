@@ -1,6 +1,6 @@
 # Ex. No.2 - SIMULATION ANALYSIS ON SLIDER CRANK MECHANISM
 
-## DATE: 26.12.23
+## DATE: 
 
 ## AIM:
 ###   To determine & simulate the displacement & velocity analysis for the given slider crank mechanism. 
@@ -37,15 +37,13 @@
 
 ![image](https://github.com/Sellakumar1987/Ex.-No.2---SIMULATION-ANALYSIS-ON-SLIDER-CRANK-MECHANISM/assets/113594316/23ca1772-5a92-4b8b-a8bc-e149da33d297)
 
-![image](https://github.com/sravanipopuri2006/Ex.-No.2---SIMULATION-ANALYSIS-ON-SLIDER-CRANK-MECHANISM/assets/139778301/a8883fcd-9695-4f65-84e7-f853daeda44d)
+![image](https://github.com/Meenu2823/Ex.-No.2---SIMULATION-ANALYSIS-ON-SLIDER-CRANK-MECHANISM/assets/139416219/210d360f-bbe3-45a6-aaee-f1b87ce43798)
 
-![WhatsApp Image 2023-12-26 at 09 46 47_035c9ee4](https://github.com/Meenu2823/Ex.-No.2---SIMULATION-ANALYSIS-ON-SLIDER-CRANK-MECHANISM/assets/139416219/37d9e791-92ad-474e-bdb6-be536ae56512)
+![image](https://github.com/Meenu2823/Ex.-No.2---SIMULATION-ANALYSIS-ON-SLIDER-CRANK-MECHANISM/assets/139416219/b68cec1c-856f-4589-b1be-af8353ed792d)
 
-![image](https://github.com/Sellakumar1987/Ex.-No.2---SIMULATION-ANALYSIS-ON-SLIDER-CRANK-MECHANISM/assets/113594316/188cba1a-fe54-4549-a6e5-3bb6b8d7b120)
+![image](https://github.com/Meenu2823/Ex.-No.2---SIMULATION-ANALYSIS-ON-SLIDER-CRANK-MECHANISM/assets/139416219/35e8d5e0-c1a3-4c07-b0a1-276a6b852a8b)
 
-## Output
-![Screenshot 2023-12-26 094502](https://github.com/Meenu2823/Ex.-No.2---SIMULATION-ANALYSIS-ON-SLIDER-CRANK-MECHANISM/assets/139416219/9ceb3c4b-6906-4c25-a3ae-a034053de25b)
-
+## Output:
 
 ### Name: MEENU.S
 ### Register Number: 212223230124
